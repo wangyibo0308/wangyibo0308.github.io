@@ -21,5 +21,7 @@ Publications
 
 **<span style="color: rgba(60, 120, 210, 0.8);">USENIX Security 2024</span>**
 
+<u>Towards Saving Blockchain Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations</u>
+
 
 
