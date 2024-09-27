@@ -19,7 +19,7 @@ Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized State
 
 **Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang
 
-**<span style="color: blue;">USENIX Security 2024</span>**
+**<span style="color: rgba(70, 130, 180, 0.7);">USENIX Security 2024</span>**
 
 
 
