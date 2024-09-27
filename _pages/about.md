@@ -23,5 +23,6 @@ Publications
 
 <u>Towards Saving Blockchain Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations</u>
 
+**Yibo Wang**, Kai Li, Yuzhe Tang, Jiaqi Chen, Qi Zhang, Xiapu Luo, Ting Chen
 
-
+**<span style="color: rgba(60, 120, 210, 0.8);">IEEE Transactions on Software Engineering 2023</span>**
