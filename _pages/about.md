@@ -14,6 +14,7 @@ His research focuses on software security and cost efficiency in blockchains and
 
 Publications
 ======
+
 <u>Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</u>
 ------
 
@@ -22,6 +23,7 @@ Publications
 **<span style="color: rgba(60, 120, 210, 0.8);">USENIX Security 2024</span>**
 
 <u>Towards Saving Blockchain Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations</u>
+------
 
 **Yibo Wang**, Kai Li, Yuzhe Tang, Jiaqi Chen, Qi Zhang, Xiapu Luo, Ting Chen
 
