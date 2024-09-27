@@ -14,8 +14,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
+  - title: "Professional Services"
+     url: /professional-services/
         
   - title: "Blog Posts"
     url: /year-archive/
