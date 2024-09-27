@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 4"
+title: "Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: Yibo Wang, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
