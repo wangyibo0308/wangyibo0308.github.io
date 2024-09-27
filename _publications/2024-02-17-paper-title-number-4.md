@@ -3,7 +3,7 @@ title: "Understanding Ethereum Mempool Security under Asymmetric DoS by Symboliz
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: **Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang
+excerpt: _Yibo Wang_, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
