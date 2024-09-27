@@ -16,11 +16,7 @@ main:
     
   #- title: "Portfolio"
   #  url: /portfolio/
-  - title: "Professional Services"
-     url: /professional-services/
-        
-  - title: "Award"
-    url: /award/
+
     
   - title: "CV"
     url: /cv/
