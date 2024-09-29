@@ -11,7 +11,7 @@ author_profile: true
 Discovering DoS attack on Ethereum transaction pool
 ---- 
 - Discover the vulnerability of transaction pool in Ethereum clients by reading source code, testing cases and fuzzing.
-- Report 9 unique attacks that can deny the service of transaction pool with 0 or low cost.
+- Report 12 unique attacks that can deny the service of transaction pool with 0 or low cost.
 - Our team receives Bug bounty from Ethereum Foundation $12,000 (2021), $2,000 (2022), $4,000 (2023) and OpenEthereum/Parity $8,000 (2021)
 
 Improving the resilience of the transaction pool against DoS attacks on [Go-Ethereum client](https://github.com/ethereum/go-ethereum)
