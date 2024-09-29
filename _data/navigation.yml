@@ -20,6 +20,9 @@ main:
     
   - title: "Teaching"
     url: /cv/
+
+  - title: "Talks"
+    url: /talk/
     
   #- title: "Guide"
   #  url: /markdown/
