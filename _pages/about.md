@@ -35,3 +35,12 @@ _**Yibo Wang**, Kai Li, Yuzhe Tang, Jiaqi Chen, Qi Zhang, Xiapu Luo, Ting Chen_
 _**Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen_
 
 **<span style="color: rgba(60, 120, 210, 0.8);">ESEC/FSE 2021</span>**
+
+<u>Towards Understanding Crypto-Asset Risks on Ethereum Caused by Key Leakage on the Internet</u>
+------
+
+_Yuxuan Zhou, Jiaqi Chen, **Yibo Wang**, Yuzhe Tang and G. Gu_
+
+**International World Wide Web Conference, 2024, short paper**
+
+
