@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Teaching"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Lab instruction 
+---- 
+Syracuse University 09/2024
+• Instruct the Buffer Overflow Attack Lab in SEED Lab for Computer Security (CSE 364) under Dr. Yuzhe Tang.
+• Present in-depth knowledge of buffer overflow attacks, covering memory and stack layout, buffer overflow vulnera-
+bilities, and the practical execution of buffer overflow attacks.
+• Lead hands-on lab sessions where students exploit buffer overflow vulnerabilities to obtain root privileges on both
+ARM64 and AMD64 architectures, providing practical insights into vulnerability exploitation and attack techniques.
+
+Guest lecture
+---- 
+The State University of New York at Oswego (SUNY Oswego) 04/2024
+• Delivered a lecture on “Introduction to Blockchain and Web 3.0” for FIN 426 – Multi-National Financial Management
+at SUNY Oswego. This lecture was part of the curriculum taught by Dr. Hong Wan.
+• Delivered an introduction to the development of blockchain and key concepts while guiding students through the
+step-by-step process of using a wallet to send a transaction.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
