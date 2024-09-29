@@ -12,7 +12,7 @@ title                    : "Yibo Wang 王一博"
 title_separator          : "-"
 name                     : &name "Yibo Wang"
 description              : &description "personal description"
-url                      : https://wangyibo0308.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yibo-wang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangyibo0308/wangyibo0308.github.io"
 
