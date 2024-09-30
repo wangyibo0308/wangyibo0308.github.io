@@ -23,3 +23,10 @@ Improving the resilience of the transaction pool against DoS attacks on [Go-Eth
 https://github.com/ethereum/go-ethereum/releases/tag/v1.11.4  
 ![](../images/contributor1.png)
 ![](../images/contributor2.png)
+
+Cost optimization in blockchains
+---- 
+
+- Design a middleware system running on top of a blockchain network to optimize the cost of blockchain-based DApps.
+- Achieve saving 14.6\% – 59.1\% Gas cost per invocation without losing security or causing extra delay.
+- Implement smart-contract rewriting techniques on source/bytecode for the integration of the middleware with contract
