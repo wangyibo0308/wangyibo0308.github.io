@@ -19,7 +19,7 @@ Publications
 **USENIX Security'24:** <span style="text-decoration: underline;">Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</span>
 
 _**Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang_
-
+---
 
 **ESEC/FSE'21:** <span style="text-decoration: underline;">iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations</span> 
 
