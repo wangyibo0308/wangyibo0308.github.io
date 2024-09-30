@@ -30,3 +30,9 @@ Cost optimization in blockchains
 - Design a middleware system running on top of a blockchain network to optimize the cost of blockchain-based DApps.
 - Achieve saving 14.6\% – 59.1\% Gas cost per invocation without losing security or causing extra delay.
 - Implement smart-contract rewriting techniques on source/bytecode for the integration of the middleware with contract
+
+Decentralized bug reporting system for smart contract
+---- 
+- Develop a decentralized bug-reporting system for smart contracts, addressing manipulation and transparency issues in centralized systems like CVE.
+- Design a system allowing anyone to submit bug reports to the blockchain, with validation by a decentralized group of verifiers, ensuring accuracy and immutability.
+- Implement a validation process using encrypted Proof of Evidence (PoE) and Trusted Execution Environment (TEE) for secure and transparent bug verification.
