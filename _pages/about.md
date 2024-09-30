@@ -16,12 +16,12 @@ His research focuses on software security, software engineering, system and cost
 Publications
 ======
 
-⬛︎ **USENIX Security'24:** <span style="text-decoration: underline;">Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</span>
+◼️ **USENIX Security'24:** <span style="text-decoration: underline;">Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;  _**Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang_ 
 
 
-⬛︎ **ESEC/FSE'21:** <span style="text-decoration: underline;">iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations</span> 
+◼️ **ESEC/FSE'21:** <span style="text-decoration: underline;">iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations</span> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;  _**Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen_ (An extension of this work is published in TSE'23)
 
