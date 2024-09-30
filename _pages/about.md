@@ -14,7 +14,7 @@ His research focuses on software security and cost efficiency in blockchains and
 
 Publications
 ======
-**<span style="color: rgba(60, 120, 210, 0.8);">USENIX Security'24</span>** — <u>Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</u> — _**Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang_
+**<span style="color: rgba(60, 120, 210, 0.8);">USENIX Security'24</span>** — <span style="text-decoration: underline;">Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</span> — _**Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang_
 
 
 <u>Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</u>
