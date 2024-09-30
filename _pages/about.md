@@ -31,31 +31,31 @@ Publications
   _Kai Li, **Yibo Wang**, Yuzhe Tang_ 
 
 
-&bull; **Poster CCS'22:** <span style="text-decoration: underline;">Enabling Cost-Effective Blockchain Applications via Workload-Adaptive Transaction Execution</span>
+▪️ **Poster CCS'22:** <span style="text-decoration: underline;">Enabling Cost-Effective Blockchain Applications via Workload-Adaptive Transaction Execution</span>
 
   _**Yibo Wang**, Yuzhe Tang_ 
 
 
-&bull; **WWW'24 short:** <span style="text-decoration: underline;">Towards Understanding Crypto-Asset Risks on Ethereum Caused by Key Leakage on the Internet</span>
+▪️ **WWW'24 short:** <span style="text-decoration: underline;">Towards Understanding Crypto-Asset Risks on Ethereum Caused by Key Leakage on the Internet</span>
 
   _Yuxuan Zhou, Jiaqi Chen, **Yibo Wang**, Yuzhe Tang and G. Gu_ 
 
 
-&bull; **Euro S&P'23:** <span style="text-decoration: underline;">Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild</span>
+▪️ **Euro S&P'23:** <span style="text-decoration: underline;">Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild</span>
 
   _Jiaqi Chen, **Yibo Wang**, Yuxuan Zhou, Wanning Ding, Yuzhe Tang, XiaoFeng Wang, Kai Li_ 
 
 
-&bull; **EthiCS'23:** <span style="text-decoration: underline;">Ethical Challenges in Blockchain Measurement Research</span>
+▪️ **EthiCS'23:** <span style="text-decoration: underline;">Ethical Challenges in Blockchain Measurement Research</span>
 
   _Yuzhe Tang, Kai Li, **Yibo Wang**, Jiaqi Chen_ 
 
-&bull; **IMC'21:** <span style="text-decoration: underline;">TopoShot: Uncovering Ethereum’s Network Topology Leveraging Replacement Transactions</span>
+▪️ **IMC'21:** <span style="text-decoration: underline;">TopoShot: Uncovering Ethereum’s Network Topology Leveraging Replacement Transactions</span>
 
   _Kai Li, Yuzhe Tang, Jiaqi Chen, **Yibo Wang**, Xianghong Liu_ 
 
 
-&bull; **SERIAL@Middleware'20:** <span style="text-decoration: underline;">Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention</span>
+▪️ **SERIAL@Middleware'20:** <span style="text-decoration: underline;">Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention</span>
 
   _Yuzhe Tang, Kai Li, **Yibo Wang**, Sencer Burak Somuncuoglu_ 
 
