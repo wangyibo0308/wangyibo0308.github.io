@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Yibo Wang is a Ph.D. student in the FSSL Lab of Computer Science at Syracuse University advised by Dr. Yuzhe Tang. He received his B. E. from Huazhong University of Science and Technology and his M.S. in Computer Engineering from Syracuse University. 
+Yibo Wang is a Ph.D. student in the FSSL Lab of Computer Science at Syracuse University advised by Dr. Yuzhe Tang. He received his B.E. from Huazhong University of Science and Technology and his M.S. in Computer Engineering from Syracuse University. 
 
-His research focuses on software security and cost efficiency in blockchains and emerging services (AI), including Software security, Software engineering, System and cost optimization.
+His research focuses on software security, software engineering, system and cost optimization in blockchains and emerging services.
 
 Publications
 ======
