@@ -50,6 +50,7 @@ _Yuzhe Tang, Kai Li, **Yibo Wang**, Jiaqi Chen_
 _Kai Li, Yuzhe Tang, Jiaqi Chen, **Yibo Wang**, Xianghong Liu_
 
 **SERIAL@Middleware'20:** <span style="text-decoration: underline;">Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention</span>
+
 _Yuzhe Tang, Kai Li, **Yibo Wang**, Sencer Burak Somuncuoglu_
 
 
