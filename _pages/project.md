@@ -28,7 +28,7 @@ Cost optimization in blockchains
 ---- 
 
 - Design a middleware system running on top of a blockchain network to optimize the cost of blockchain-based DApps.
-- Achieve saving 14.6\% – 59.1\% Gas cost per invocation without losing security or causing extra delay.
+- Achieve saving 14.6% – 59.1% Gas cost per invocation without losing security or causing extra delay.
 - Implement smart-contract rewriting techniques on source/bytecode for the integration of the middleware with contract
 
 Decentralized bug reporting system for smart contract
