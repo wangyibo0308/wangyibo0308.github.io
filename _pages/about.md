@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+
 
 
 Yibo Wang is a Ph.D. student in the FSSL Lab of Computer Science at Syracuse University advised by Dr. Yuzhe Tang. He received his B.E. from Huazhong University of Science and Technology and his M.S. in Computer Engineering from Syracuse University. 
@@ -16,17 +16,17 @@ His research focuses on software security, software engineering, system and cost
 Publications
 ======
 
-&bull; **USENIX Security'24:** <span style="text-decoration: underline;">Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</span>
+▪️ **USENIX Security'24:** <span style="text-decoration: underline;">Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</span>
 
   _**Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang_ 
 
 
-&bull; **ESEC/FSE'21:** <span style="text-decoration: underline;">iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations</span> 
+▪️ **ESEC/FSE'21:** <span style="text-decoration: underline;">iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations</span> 
 
   _**Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen_ (An extension of this work is published in TSE'23)
 
 
-&bull; **CCS'21:** <span style="text-decoration: underline;">DETER: Denial of Ethereum Txpool sERvices</span> 
+▪️ **CCS'21:** <span style="text-decoration: underline;">DETER: Denial of Ethereum Txpool sERvices</span> 
 
   _Kai Li, **Yibo Wang**, Yuzhe Tang_ 
 
