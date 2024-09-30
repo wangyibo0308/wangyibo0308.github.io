@@ -15,6 +15,7 @@ His research focuses on software security, software engineering, system and cost
 
 Publications
 ======
+
 **USENIX Security'24:** <span style="text-decoration: underline;">Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</span>
 
 _**Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang_
@@ -52,7 +53,6 @@ _Kai Li, Yuzhe Tang, Jiaqi Chen, **Yibo Wang**, Xianghong Liu_
 **SERIAL@Middleware'20:** <span style="text-decoration: underline;">Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention</span>
 
 _Yuzhe Tang, Kai Li, **Yibo Wang**, Sencer Burak Somuncuoglu_
-
 
 
 
