@@ -20,7 +20,7 @@ Publications
 
 2. **Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations, **ESEC/FSE'21:**. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;  An extension of this work is published in TSE'23.
+- An extension of this work is published in TSE'23.
 
 3. Kai Li, **Yibo Wang**, Yuzhe Tang. DETER: Denial of Ethereum Txpool sERvices, **CCS'21:**.
 
