@@ -15,7 +15,7 @@ author_profile: true
 
 3. Kai Li, **Yibo Wang**, Yuzhe Tang. DETER: Denial of Ethereum Txpool sERvices, **CCS'21**.
 
-4. **Yibo Wang**, Yuzhe Tang_. Enabling Cost-Effective Blockchain Applications via Workload-Adaptive Transaction Execution, Poster CCS'22. 
+4. **Yibo Wang**, Yuzhe Tang. Enabling Cost-Effective Blockchain Applications via Workload-Adaptive Transaction Execution, Poster CCS'22. 
 
 5. Yuxuan Zhou, Jiaqi Chen, **Yibo Wang**, Yuzhe Tang and G. Gu. Towards Understanding Crypto-Asset Risks on Ethereum Caused by Key Leakage on the Internet, WWW'24 short.
 
