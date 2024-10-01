@@ -15,7 +15,7 @@ His research focuses on software security, software engineering, system and cost
 
 Publications
 ======
-
+<p class="small-margin">
 1. **Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang. Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing, **USENIX Security'24**.
 
 2. **Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations, **ESEC/FSE'21**. 
@@ -35,7 +35,7 @@ Publications
 8. Kai Li, Yuzhe Tang, Jiaqi Chen, **Yibo Wang**, Xianghong Liu. TopoShot: Uncovering Ethereum’s Network Topology Leveraging Replacement Transactions, **IMC'21**.
 
 9. Yuzhe Tang, Kai Li, **Yibo Wang**, Sencer Burak Somuncuoglu. Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention, SERIAL@Middleware'20.
-
+</p>
 
 
 
