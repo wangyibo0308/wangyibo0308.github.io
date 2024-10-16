@@ -53,9 +53,9 @@ Awards & Honors
   Student Registration Grant, IEEE SymposiumonSecurity and Privacy, 05/2021  
   Graduate Award (50% tuition scholarship), Syracuse University, 08/2017     
 - **Bug Bounties**  
-  Bug report for Go-Ethereum, awarded $12,000, 2021
-  Bug report for Open-Ethereum, awarded $8,000, 2021
-  Bug report for Go-Ethereum, awarded $2,000, 2022
-  Bug report for Erigon and Nethermind, awarded $4,000, 2023
-  Bug report for Flashbot, $200, 2023
+  Bug report for Go-Ethereum, awarded $12,000, 2021  
+  Bug report for Open-Ethereum, awarded $8,000, 2021  
+  Bug report for Go-Ethereum, awarded $2,000, 2022  
+  Bug report for Erigon and Nethermind, awarded $4,000, 2023  
+  Bug report for Flashbot, $200, 2023  
   
