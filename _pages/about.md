@@ -39,11 +39,11 @@ Publications
 
 - Jiaqi Chen, **Yibo Wang**, Yuxuan Zhou, Wanning Ding, Yuzhe Tang, XiaoFeng Wang, Kai Li. [Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild](https://ieeexplore.ieee.org/document/10190515), Euro S&P'23.
 
-- Yuzhe Tang, Kai Li, **Yibo Wang**, Jiaqi Chen. Ethical Challenges in Blockchain Measurement Research, EthiCS'23.
+- Yuzhe Tang, Kai Li, **Yibo Wang**, Jiaqi Chen. [Ethical Challenges in Blockchain Measurement Research](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ethics2023-235725-paper.pdf), EthiCS'23.
 
 - Kai Li, Yuzhe Tang, Jiaqi Chen, **Yibo Wang**, Xianghong Liu. [TopoShot: Uncovering Ethereum’s Network Topology Leveraging Replacement Transactions](https://dl.acm.org/doi/abs/10.1145/3487552.3487814), **IMC'21**.
 
-- Yuzhe Tang, Kai Li, **Yibo Wang**, Sencer Burak Somuncuoglu. Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention, SERIAL@Middleware'20.
+- Yuzhe Tang, Kai Li, **Yibo Wang**, Sencer Burak Somuncuoglu. [Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention](https://dl.acm.org/doi/10.1145/3429884.3430032), SERIAL@Middleware'20.
 
 
 Services
