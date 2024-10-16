@@ -20,6 +20,7 @@ His dissertation research tackles automatic design-flow discovery (USENIX Securi
 
 <span style="color: red;">He will be on the academic job market for the 2024-25 cycle!</span>
 
+
 Publications
 ======
 ---
@@ -43,6 +44,7 @@ Publications
 - Kai Li, Yuzhe Tang, Jiaqi Chen, **Yibo Wang**, Xianghong Liu. [TopoShot: Uncovering Ethereum’s Network Topology Leveraging Replacement Transactions](https://dl.acm.org/doi/abs/10.1145/3487552.3487814), **IMC'21**.
 
 - Yuzhe Tang, Kai Li, **Yibo Wang**, Sencer Burak Somuncuoglu. Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention, SERIAL@Middleware'20.
+
 
 Services
 ======
