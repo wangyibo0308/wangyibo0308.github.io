@@ -16,7 +16,7 @@ His research interest lies in systems security, software engineering, and perfor
  
 His dissertation research tackles automatic design-flow discovery (USENIX Security’24), denial of service security (CCS’21, S&P’24), and cost optimization (FSE’21, TSE’23), all in permissionless blockchains, like Ethereum.
 
-<span style="color: red;">He will be on the academic job market for the 2024-25 cycle!</span>
+<span style="color: red;">He is on the academic job market for the 2024-25 cycle!</span>
 
 
 
