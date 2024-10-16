@@ -20,7 +20,7 @@ His dissertation research tackles automatic design-flow discovery (USENIX Securi
 
 <span style="color: red;">He will be on the academic job market for the 2024-25 cycle!</span>
 
-
+---
 Publications
 ======
 ---
@@ -45,7 +45,7 @@ Publications
 
 - Yuzhe Tang, Kai Li, **Yibo Wang**, Sencer Burak Somuncuoglu. [Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention](https://dl.acm.org/doi/10.1145/3429884.3430032), SERIAL@Middleware'20.
 
-
+---
 Services
 ======
 ---
