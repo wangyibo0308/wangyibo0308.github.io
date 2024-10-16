@@ -1,14 +1,7 @@
 /* ==========================================================================
    ARCHIVE
    ========================================================================== */
-ul, ol {
-  margin: 0;  /* Remove default margin */
-  padding: 0; /* Remove default padding */
-}
 
-ul li, ol li {
-  margin-bottom: 0.5em; /* Adjust this value for desired spacing */
-}
 .archive {
   margin-bottom: 1em;
 
@@ -35,7 +28,7 @@ ul li, ol li {
   }
 }
 p {
-  margin-bottom: 0.5em; /* Adjust as needed */
+  margin-bottom: 1em; /* Adjust as needed */
 }
 
 .archive__subtitle {
