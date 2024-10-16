@@ -23,7 +23,7 @@ His dissertation research tackles automatic design-flow discovery (USENIX Securi
 Publications
 ======
 - **Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang. [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/system/files/usenixsecurity24-wang-yibo.pdf), **USENIX Security'24**. [[slides](https://www.usenix.org/system/files/usenixsecurity24_slides-wang-yibo.pdf)]
-- **Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. [iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations](https://tristartom.github.io/docs/fse21-ibatch.pdf), **ESEC/FSE'21**. 
+- **Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. [iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations](https://tristartom.github.io/docs/fse21-ibatch.pdf), **ESEC/FSE'21**. [[slides](https://docs.google.com/presentation/d/1BAbKc0El5ccnSwowvgFECqgYMjrKFBS-aQMwgGJBYfo/edit#slide=id.gfb81233821_0_0)] 
      - An extension of this work is published in **TSE'23**. [[pdf](https://ieeexplore.ieee.org/abstract/document/10018598)]
 - Kai Li, **Yibo Wang**, Yuzhe Tang. [DETER: Denial of Ethereum Txpool sERvices](https://dl.acm.org/doi/10.1145/3460120.3485369), **CCS'21**.
 - **Yibo Wang**, Yuzhe Tang. [Enabling Cost-Effective Blockchain Applications via Workload-Adaptive Transaction Execution](https://dl.acm.org/doi/pdf/10.1145/3548606.3563505), Poster CCS'22. 
