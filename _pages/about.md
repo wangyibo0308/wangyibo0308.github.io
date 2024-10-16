@@ -21,8 +21,8 @@ His dissertation research tackles automatic design-flow discovery (USENIX Securi
 <span style="color: red;">He will be on the academic job market for the 2024-25 cycle!</span>
 
 ---
-Publications
-======
+
+#Publications
 ---
 
 - **Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang. [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/system/files/usenixsecurity24-wang-yibo.pdf), **USENIX Security'24**.
@@ -46,8 +46,8 @@ Publications
 - Yuzhe Tang, Kai Li, **Yibo Wang**, Sencer Burak Somuncuoglu. [Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention](https://dl.acm.org/doi/10.1145/3429884.3430032), SERIAL@Middleware'20.
 
 ---
-Services
-======
+
+#Services
 ---
 - Program Committee Member  
   The Web Conference 2025
