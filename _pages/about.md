@@ -47,10 +47,12 @@ Publications
 Services
 ======
 ---
-ProgramCommittee memberofthe Web Conference 2025(formerlyknown as WWW)
-• Reviewer oftheComputerCommunications2024
-• Reviewer oftheWebConf2024
-• Reviewer oftheTDSC 2022
+- Program Committee Member
+  The Web Conference 2025
+- Reviewer
+  ComputerCommunications2024
+  The Web Conference 2024
+  TDSC 2022
 
 
 
