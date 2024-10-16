@@ -26,7 +26,7 @@ Publications
 
 - **Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang. [<span style="color: blue;">Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing</span>](https://www.usenix.org/system/files/usenixsecurity24-wang-yibo.pdf), **USENIX Security'24**.
 
-- **Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. [iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations](https://tristartom.github.io/docs/fse21-ibatch.pdf), **ESEC/FSE'21**. 
+- **Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. <span style="color: blue;">[iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations]</span>(https://tristartom.github.io/docs/fse21-ibatch.pdf), **ESEC/FSE'21**. 
 
     - An extension of this work is published in **TSE'23**.
 
