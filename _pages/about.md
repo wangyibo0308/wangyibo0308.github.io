@@ -57,5 +57,5 @@ Awards & Honors
   Bug report for Open-Ethereum, awarded $8,000, 2021  
   Bug report for Go-Ethereum, awarded $2,000, 2022  
   Bug report for Erigon and Nethermind, awarded $4,000, 2023  
-  Bug report for Flashbot, $200, 2023  
+  Bug report for Flashbot, awarded $200, 2023  
   
