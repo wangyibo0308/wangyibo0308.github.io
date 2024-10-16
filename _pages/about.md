@@ -10,7 +10,6 @@ redirect_from:
 
 Short Bio
 ======
-----
 Yibo Wang is a Ph.D. student in the [FSSL Lab](https://tristartom.github.io/members.html) of Computer Science at Syracuse University advised by [Dr. Yuzhe Tang](https://tristartom.github.io/index.html). He received his B.E. from Huazhong University of Science and Technology and his M.S. in Computer Engineering from Syracuse University. 
 
 His research interest lies in systems security, software engineering, and performance optimization in blockchains and other emerging distributed /decentralized systems. 
@@ -23,7 +22,6 @@ His dissertation research tackles automatic design-flow discovery (USENIX Securi
 
 Publications
 ======
-----
 - **Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang. [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/system/files/usenixsecurity24-wang-yibo.pdf), **USENIX Security'24**. [[slides](https://www.usenix.org/system/files/usenixsecurity24_slides-wang-yibo.pdf)]
 
 - **Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. [iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations](https://tristartom.github.io/docs/fse21-ibatch.pdf), **ESEC/FSE'21**. 
@@ -48,7 +46,6 @@ Publications
 
 Services
 ======
-----
 - Program Committee Member  
   The Web Conference 2025
 - Reviewer  
