@@ -1,7 +1,14 @@
 /* ==========================================================================
    ARCHIVE
    ========================================================================== */
+ul, ol {
+  margin: 0;  /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
 
+ul li, ol li {
+  margin-bottom: 0.5em; /* Adjust this value for desired spacing */
+}
 .archive {
   margin-bottom: 1em;
 
@@ -13,14 +20,7 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
   }
-  ul, ol {
-  margin: 0;  /* Remove default margin */
-  padding: 0; /* Remove default padding */
-  }
 
-  ul li, ol li {
-  margin-bottom: 0.5em; /* Adjust this value for desired spacing */
-  }
   a {
     color: #0033CC;
     text-decoration: underline;
