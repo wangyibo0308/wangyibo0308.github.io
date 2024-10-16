@@ -13,14 +13,7 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
   }
-ul {
-    margin: 0;  /* Remove default margin */
-    padding: 0; /* Remove default padding */
 
-    li {
-      margin-bottom: 0.75em; /* Adjust this value for desired spacing */
-    }
-  }
   a {
     color: #0033CC;
     text-decoration: underline;
@@ -34,9 +27,7 @@ ul {
     }
   }
 }
-p {
-  margin-bottom: 1em; /* Adjust as needed */
-}
+
 
 .archive__subtitle {
   margin: 1.414em 0 0;
