@@ -49,8 +49,8 @@ Awards & Honors
 - **Academic Awards**  
   USENIX Security’24 Grant, USENIX Security, 08/2024  
   CCS’22 workshop registration fellowship, Protocol Lab, 10/2022  
-  USENIX Security’21Grant, USENIX Security, 07/2021  
-  Student Registration Grant, IEEE SymposiumonSecurity and Privacy, 05/2021  
+  USENIX Security’21 Grant, USENIX Security, 07/2021  
+  Student Registration Grant, IEEE Symposium on Security and Privacy, 05/2021  
   Graduate Award (50% tuition scholarship), Syracuse University, 08/2017     
 - **Bug Bounties**  
   Bug report for Go-Ethereum, awarded $12,000, 2021  
