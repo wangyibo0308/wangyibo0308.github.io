@@ -12,7 +12,7 @@ Short Bio
 ======
 Yibo Wang is a Ph.D. student in the [FSSL Lab](https://tristartom.github.io/members.html) of Computer Science at Syracuse University advised by [Dr. Yuzhe Tang](https://tristartom.github.io/index.html). He received his B.E. from Huazhong University of Science and Technology and his M.S. in Computer Engineering from Syracuse University. 
 
-His research interest lies in systems security, software engineering, and performance optimization in blockchains and other emerging distributed /decentralized systems. 
+His research interest lies in systems security, software engineering, and performance optimization in blockchains and other emerging distributed/decentralized systems. 
  
 His dissertation research tackles automatic design-flaw discovery via fuzzing (USENIX Security’24), denial of service security (S&P’25, CCS’21), cost optimization (FSE’21, TSE’23), and network measurement (IMC'21), all in permissionless blockchains, like Ethereum.
 
