@@ -26,6 +26,9 @@ main:
 
   - title: "Projects"
     url: /project/
+  - title: "CV"
+    url: /assets/Yibo_CV.pdf  # Replace with the actual path to your PDF file
+    external: true
     
   #- title: "Guide"
   #  url: /markdown/
