@@ -58,5 +58,5 @@ Achievements & Certifications
   Bug report for Go-Ethereum, awarded $2,000, 2022  
   Bug report for Erigon and Nethermind, awarded $4,000, 2023  
   Bug report for Flashbot, awarded $200, 2023  
-- **Certifications**
+- **Certifications**      
   NSF I-Corps Regional Course, 2024   
