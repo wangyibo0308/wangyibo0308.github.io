@@ -44,7 +44,7 @@ Services
   The Web Conference 2024  
   TDSC 2022  
 
-Awards & Honors
+Achievements & Certifications
 ======
 - **Academic Awards**  
   USENIX Security’24 Grant, USENIX Security, 08/2024  
@@ -58,4 +58,5 @@ Awards & Honors
   Bug report for Go-Ethereum, awarded $2,000, 2022  
   Bug report for Erigon and Nethermind, awarded $4,000, 2023  
   Bug report for Flashbot, awarded $200, 2023  
-  
+- **Certifications**
+  NSF I-Corps Regional Course, 2024   
