@@ -12,5 +12,5 @@ author_profile: true
 
 [Research Statement](/assets/Research_Statement.pdf)
 
-[Teaching Statement]()
+[Teaching Statement](/assets/Teaching_Statement.pdf)
 
