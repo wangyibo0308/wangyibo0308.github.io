@@ -10,7 +10,7 @@ author_profile: true
 
 
 
-[Research Statement]()
+[Research Statement](/assets/research_statement.pdf)
 
 [Teaching Statement]()
 
