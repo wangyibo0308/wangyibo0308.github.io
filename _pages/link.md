@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Links"
+title: " "
 permalink: /link/
 author_profile: true
 ---
@@ -14,4 +14,3 @@ author_profile: true
 
 [Teaching Statement]()
 
-[Google Scholar](https://scholar.google.com/citations?user=--S-_hgAAAAJ&hl=en)
