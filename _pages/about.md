@@ -59,4 +59,8 @@ Achievements & Certifications
   Bug report for Erigon and Nethermind, awarded $4,000, 2023  
   Bug report for Flashbot, awarded $200, 2023  
 - **Certifications**      
-  NSF I-Corps Regional Course, 2024   
+  NSF I-Corps Regional Course, 2024
+
+- **Grants & Research Funding**
+  Co-Principal Investigator (Co-PI): DoS-Secure Transaction Propagation on Ethereum: Exploit Generation and Attack Detection.    
+  - [Grant](https://blog.ethereum.org/2022/07/29/academic-grants-grantee-announce) from Ethereum Ecosystem Support Program, 2022    
