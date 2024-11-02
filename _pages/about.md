@@ -61,6 +61,6 @@ Achievements & Certifications
 - **Certifications**      
   NSF I-Corps Regional Course, 2024
 
-- **Grants & Research Funding**
+- **Grants & Research Funding**    
   Co-Principal Investigator (Co-PI): DoS-Secure Transaction Propagation on Ethereum: Exploit Generation and Attack Detection.    
   - [Grant](https://blog.ethereum.org/2022/07/29/academic-grants-grantee-announce) from Ethereum Ecosystem Support Program, 2022    
