@@ -16,7 +16,8 @@ His research interest lies in systems security, software engineering, and perfor
  
 His dissertation research tackles automatic design-flaw discovery via fuzzing (USENIX Security’24), denial of service security (S&P’25, CCS’21), cost optimization (FSE’21, TSE’23), and network measurement (IMC'21), all in permissionless blockchains, like Ethereum.
 
-<span style="color: red;">He is on the academic job market for the 2024-25 cycle!</span> [Curriculum Vitae](/assets/Yibo_CV.pdf), [Research Statement](/assets/Research_Statement.pdf), [Teaching Statement](/assets/Teaching_Statement.pdf)    
+<span style="color: red;">He is on the academic job market for the 2024-25 cycle!</span>     
+[Curriculum Vitae](/assets/Yibo_CV.pdf), [Research Statement](/assets/Research_Statement.pdf), [Teaching Statement](/assets/Teaching_Statement.pdf)    
 
 
 Publications
