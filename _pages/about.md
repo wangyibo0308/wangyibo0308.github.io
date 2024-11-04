@@ -18,6 +18,9 @@ His dissertation research tackles automatic design-flaw discovery via fuzzing (U
 
 <span style="color: red;">He is on the academic job market for the 2024-25 cycle!</span>
 
+[Curriculum Vitae](/assets/Yibo_CV.pdf)  
+[Research Statement](/assets/Research_Statement.pdf)    
+[Teaching Statement](/assets/Teaching_Statement.pdf)    
 
 
 Publications
