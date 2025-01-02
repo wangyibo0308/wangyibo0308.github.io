@@ -15,4 +15,4 @@ Consensusday'22/Workshop of CCS'22: **[Towards the Comprehensive Understanding o
 
 USENIX Security'24: **[Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo)**
 
-CCS'21: *[DETER: Denial of Ethereum Txpool sERvices](https://dl.acm.org/doi/10.1145/3460120.3485369#supplementary-materials)**
+CCS'21: **[DETER: Denial of Ethereum Txpool sERvices](https://dl.acm.org/doi/10.1145/3460120.3485369#supplementary-materials)**
