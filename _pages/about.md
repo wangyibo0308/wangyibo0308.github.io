@@ -15,9 +15,8 @@ Yibo Wang is a Ph.D. student in the [FSSL Lab](https://tristartom.github.io/memb
 His research interest lies in systems security, software engineering, and performance optimization in blockchains and other emerging distributed/decentralized systems. 
  
 His dissertation research tackles automatic design-flaw discovery via fuzzing (USENIX Security’24), denial of service security (S&P’25, CCS’21), cost optimization (FSE’21, TSE’23), and network measurement (IMC'21), all in permissionless blockchains, like Ethereum.
-
-<span style="color: red;">He is on the academic job market for the 2024-25 cycle!</span>     
-[Curriculum Vitae](/assets/Yibo_CV.pdf), [Research Statement](/assets/Research_Statement.pdf), [Teaching Statement](/assets/Teaching_Statement.pdf)    
+    
+[Curriculum Vitae](/assets/Yibo_CV.pdf)   
 
 
 Publications
