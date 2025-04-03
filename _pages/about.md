@@ -16,6 +16,8 @@ His research interest lies in systems security, software engineering, and perfor
  
 His dissertation research tackles automatic design-flaw discovery via fuzzing (USENIX Security’24), denial of service security (S&P’25, CCS’21), cost optimization (FSE’21, TSE’23), and network measurement (IMC'21), all in permissionless blockchains, like Ethereum.
 
+**Openings:** Yibo Wang will join the Department of Electrical Engineering and Computer Science at the University of Wyoming as an assistant professor in 2025 Fall. He is looking for highly motivated Ph.D. students and master students to join his group. If you are interested, please send an email to wangyibo0308@gmail.com with your CV and transcripts attached.
+
 
 Publications
 ======
