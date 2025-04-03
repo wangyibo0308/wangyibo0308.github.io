@@ -21,7 +21,7 @@ His dissertation research tackles automatic design-flaw discovery via fuzzing (U
 
 Publications
 ======
-- Wanning Ding, Yuzhe Tang, **Yibo Wang**. Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs,  **S&P'25**.
+- Wanning Ding, Yuzhe Tang, **Yibo Wang**. [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a061/21B7R6HnWWk),  **S&P'25**.
 - **Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang. [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/system/files/usenixsecurity24-wang-yibo.pdf), **USENIX Security'24**. [[slides](https://www.usenix.org/system/files/usenixsecurity24_slides-wang-yibo.pdf)]
 - **Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. [iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations](https://dl.acm.org/doi/pdf/10.1145/3468264.3468568), **ESEC/FSE'21**. [[slides](https://docs.google.com/presentation/d/1BAbKc0El5ccnSwowvgFECqgYMjrKFBS-aQMwgGJBYfo/edit#slide=id.gfb81233821_0_0)] 
      - An extension of this work is published in **TSE'23**. [[pdf](https://ieeexplore.ieee.org/abstract/document/10018598)]
