@@ -10,14 +10,13 @@ redirect_from:
 
 Short Bio
 ======
-Yibo Wang is a Ph.D. student in the [FSSL Lab](https://tristartom.github.io/members.html) of Computer Science at Syracuse University advised by [Dr. Yuzhe Tang](https://tristartom.github.io/index.html). He received his B.E. from Huazhong University of Science and Technology and his M.S. in Computer Engineering from Syracuse University. 
+Yibo Wang is an Assistant Professor in the [Department of Electrical Engineering and Computer Science](https://www.uwyo.edu/eecs/index.html) at the University of Wyoming. He received his Ph.D. in Computer Science from Syracuse University, where he was a member of the [FSSL Lab](https://tristartom.github.io/members.html) advised by [Dr. Yuzhe Tang](https://tristartom.github.io/index.html). He also holds an M.S. in Computer Engineering from Syracuse University and a B.E. from Huazhong University of Science and Technology.
 
 His research interest lies in systems security, software engineering, and performance optimization in blockchains and other emerging distributed/decentralized systems. 
  
-His dissertation research tackles automatic design-flaw discovery via fuzzing (USENIX Security’24), denial of service security (S&P’25, CCS’21), cost optimization (FSE’21, TSE’23), and network measurement (IMC'21), all in permissionless blockchains, like Ethereum.
+His recent work addresses automatic design-flaw discovery via fuzzing (USENIX Security’24), denial of service security (S&P’25, CCS’21), cost optimization (FSE’21, TSE’23), and network measurement (IMC'21), all in permissionless blockchains, like Ethereum.
 
-<span style="color:red">**Openings:**</span> Yibo Wang will join the Department of Electrical Engineering and Computer Science at the University of Wyoming as an assistant professor in 2025 Fall. He is looking for highly motivated Ph.D. students and master students to join his group. If you are interested, please send an email to wangyibo0308@gmail.com with your CV and transcripts attached.
-
+<span style="color:red">**Openings:**</span> Dr. Wang is looking for highly motivated Ph.D. and Master's students to join his group. If you are interested, please email your CV and transcripts to ywang34@uwyo.edu
 
 Publications
 ======
