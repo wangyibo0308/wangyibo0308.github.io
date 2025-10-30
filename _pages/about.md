@@ -16,7 +16,6 @@ His research interest lies in systems security, software engineering, and perfor
  
 His recent work addresses automatic design-flaw discovery via fuzzing (USENIX Security’24), denial of service security (S&P’25, CCS’21), cost optimization (FSE’21, TSE’23), and network measurement (IMC'21), all in permissionless blockchains, like Ethereum.
 
-<span style="color:red">**Openings:**</span> Dr. Wang is looking for highly motivated Ph.D. and Master's students to join his group. If you are interested, please email your CV and transcripts to ywang34@uwyo.edu
 
 Publications
 ======
