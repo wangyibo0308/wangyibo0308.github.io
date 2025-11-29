@@ -24,7 +24,7 @@ Supervised graduate students on research-oriented projects and guided in-depth p
 
 Lab instruction, Syracuse University    
 ---- 
-CSE-643 Computer Security, 09/2024
+CSE-364 Computer Security, 09/2024
 
 - Instruct the Buffer Overflow Attack Lab in SEED Lab for Computer Security (CSE 364) under Dr. Yuzhe Tang.
 - Present in-depth knowledge of buffer overflow attacks, covering memory and stack layout, buffer overflow vulnerabilities, and the practical execution of buffer overflow attacks.
