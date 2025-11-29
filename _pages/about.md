@@ -19,7 +19,7 @@ His recent work addresses automatic design-flaw discovery via fuzzing (USENIX Se
 
 Publications
 ======
-- Kang Li, Ronghui Gu, Jun Xu, Zhaofeng Chen, Siwei Wu, Yajin Zhou, Mu Zhang, Xiapu Luo, Yuzhe Tang, Yi Li, Xiaokuan Zhang, **Yibo Wang**. [Security Analysis and Formal Verification on Blockchain and its Applications](https://www.nowpublishers.com/article/Details/SEC-044), FTPS 2025.
+- Kang Li, Ronghui Gu, Jun Xu, Zhaofeng Chen, Siwei Wu, Yajin Zhou, Mu Zhang, Xiapu Luo, Yuzhe Tang, Yi Li, Xiaokuan Zhang, **Yibo Wang**. [Security Analysis and Formal Verification on Blockchain and its Applications](https://www.nowpublishers.com/article/Details/SEC-044), FTPS'25.
 - Wanning Ding, Yuzhe Tang, **Yibo Wang**. [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a061/21B7R6HnWWk),  **S&P'25**.
 - **Yibo Wang**, Yuzhe Tang, Kai Li, Wanning Ding, Zhihua Yang. [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://www.usenix.org/system/files/usenixsecurity24-wang-yibo.pdf), **USENIX Security'24**. [[slides](https://www.usenix.org/system/files/usenixsecurity24_slides-wang-yibo.pdf)]
 - **Yibo Wang**, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. [iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations](https://dl.acm.org/doi/pdf/10.1145/3468264.3468568), **ESEC/FSE'21**. [[slides](https://docs.google.com/presentation/d/1BAbKc0El5ccnSwowvgFECqgYMjrKFBS-aQMwgGJBYfo/edit#slide=id.gfb81233821_0_0)] 
