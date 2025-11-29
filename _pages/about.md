@@ -12,7 +12,7 @@ Short Bio
 ======
 Yibo Wang is an Assistant Professor in the [Department of Electrical Engineering and Computer Science](https://www.uwyo.edu/eecs/index.html) at the University of Wyoming. He received his Ph.D. in Computer Science from Syracuse University, where he was a member of the [FSSL Lab](https://tristartom.github.io/members.html) advised by [Dr. Yuzhe Tang](https://tristartom.github.io/index.html). He also holds an M.S. in Computer Engineering from Syracuse University and a B.E. from Huazhong University of Science and Technology.
 
-His research interest lies in systems security, software engineering, and performance optimization in blockchains and other emerging distributed/decentralized systems. 
+His research interest lies in systems security, CI/CD and software supply-chain security, software engineering, and performance optimization in blockchains and other emerging distributed/decentralized systems.
  
 His recent work addresses automatic design-flaw discovery via fuzzing (USENIX Security’24), denial of service security (S&P’25, CCS’21), cost optimization (FSE’21, TSE’23), and network measurement (IMC'21), all in permissionless blockchains, like Ethereum.
 
