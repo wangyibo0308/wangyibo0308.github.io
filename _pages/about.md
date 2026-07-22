@@ -14,7 +14,7 @@ Yibo Wang is an Assistant Professor in the [Department of Electrical Engineering
 
 His research interests lie in systems security, software engineering, and performance optimization in blockchains, software supply chains, and other emerging distributed/decentralized systems.
  
-His recent work addresses automatic design-flaw discovery via fuzzing (USENIX Security’24), denial of service security (S&P’25, CCS’21), cost optimization (FSE’21, TSE’23), and network measurement (IMC'21), all in permissionless blockchains, like Ethereum.
+His recent work addresses automatic design-flaw discovery via fuzzing (USENIX Security’24, TSE'26), denial of service security (S&P’25, CCS’21), cost optimization (FSE’21, TSE’23), and network measurement (IMC'21), all in permissionless blockchains, like Ethereum.
 
 
 Publications
