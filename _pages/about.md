@@ -40,7 +40,7 @@ Services
 - **Program Committee Member**
   - Program Committee Member, IEEE Symposium on Security and Privacy (S&P) 2027
   - Program Committee Member, IEEE Annual Computer Security Applications Conference (ACSAC) 2026.
-  - The Web Conference 2025
+  - Program Committee Member, The Web Conference 2025
 - **Reviewer**    
   - TOSEM 2025  
   - Computer Communications 2024  
