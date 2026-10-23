@@ -38,6 +38,7 @@ Publications
 Services
 ======
 - **Program Committee Member**
+  - Program Committee Member, ACM SIGMETRICS 2027
   - Program Committee Member, IEEE Symposium on Security and Privacy (S&P) 2027
   - Program Committee Member, IEEE Annual Computer Security Applications Conference (ACSAC) 2026.
   - Program Committee Member, The Web Conference 2025
